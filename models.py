@@ -1,6 +1,6 @@
 from __future__ import unicode_literals
 from django.db import models
-
+from
 class Workers(models.Model):
     salary = models.IntegerField()
     hired_on = models.DateField()
